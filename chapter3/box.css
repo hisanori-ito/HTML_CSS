@@ -1,0 +1,16 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  /* 背景色を変えるよ */
+  background-color: red;
+  margin: 30px;
+  padding: 30px;
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: turquoise;
+  /* 指定方法(box2の周囲全てに枠線を設定する場合)*/
+  border: 5px solid yellow;
+}
